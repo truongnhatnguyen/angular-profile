@@ -1,0 +1,6 @@
+module.exports = {
+    API: '/v1/api',
+    DATABASE_CONNECT_URL: 'mongodb://localhost:27017/angularshop?retryWrites=true&W=majority',
+    PORT: 2000,
+    SECRET: 'ANJFNOGF4FWGFE7E4FBFBHVV1C77EGW7A45V78FGG7ERH.GEWG77G777748278411G78RGT7HV1THNFDVNFVFJHB'
+}
